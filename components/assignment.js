@@ -3,7 +3,7 @@ import {AiFillCloseSquare,AiFillMinusSquare,AiFillSwitcher} from 'react-icons/ai
 
 const Assignment = ({title, desc, link}) => {
     return (
-        <div className="container mx-auto bg-gray-200 rounded-xl border-4 border-black m-10">
+        <div className="container mx-auto bg-gray-200 rounded-xl border-4 border-black mt-8">
             <div className="flex w-full m-0 p-2 h-12 bg-[#D08C60] border-b-4 border-black rounded-t-lg text-3xl">
                 <AiFillCloseSquare/>
                 <AiFillMinusSquare/>
