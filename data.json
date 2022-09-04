@@ -1,9 +1,16 @@
 {
     "assignments": [
         {
+            "title": "Portfolio Assignment 1",
+            "desc": "Text Processing with Python",
+            "link": "https://github.com/ryannd/cs4395-portfolio/tree/main/public/assignments/cs4395_portfolio_assignment_1",
+            "overview": "This program takes a CSV file then parses and standardizes the file based on specifications. The CSV file contains employee information such as their name, phone number and ID. This program reads this information from the CSV file, validates it (if not valid, allows the user to enter the correct value) stores in a dictionary, writes to a pickle file and displays the retrieved data.\nTo run, type 'python3 homework1_rtd180003.py [FILE_PATH]'. Be sure to include the file path or the program will not run.\nPython's strength for text processing is in its built-in methods for string parsing and manipulation and also its built-in regex functions.\nPython's weakness comes in its speed in processing large amounts of text.\nIn this assignment I learned about Python's built in methods for string parsing, manipulation and also its functions for regex matching and replacing.\nNothing was really review because I have not used Python for text processing in the past."
+        },
+        {
             "title": "Overview of NLP",
             "desc": "Summary of historical and current approaches to NLP",
-            "link": "/cs4395-portfolio/assignments/OverviewOfNLP.pdf"
+            "link": "/cs4395-portfolio/assignments/OverviewOfNLP.pdf",
+            "overview": ""
         }
     ]
 }

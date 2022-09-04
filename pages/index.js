@@ -4,7 +4,7 @@ import Assignment from "../components/assignment"
 import data from '../data.json'
 
 function HomePage() {
-    const assignments = data.assignments.map((obj,idx) => <Assignment title={obj.title} desc={obj.desc} link={obj.link} key={idx}/>)
+    const assignments = data.assignments.map((obj,idx) => <Assignment title={obj.title} desc={obj.desc} link={obj.link} overview={obj.overview} key={idx}/>)
 
     return (
         <>
