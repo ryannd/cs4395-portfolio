@@ -17,11 +17,11 @@ const Assignment = ({title, desc, link, overview}) => {
     }
     return (
         <div className="container mx-auto bg-[#C3C3C3] rounded-xl border-4 border-black mt-8">
-            <div className="flex justify-between w-full m-0 p-2 h-12 bg-gradient-to-r from-[#01007F] to-[#A4C9EF] border-b-4 border-black rounded-t-lg text-3xl">
-                <div>
-                    <h1 className='text-white'>{title}</h1>
+            <div className="flex justify-between w-full h-full m-0 p-2 h-12 bg-gradient-to-r from-[#01007F] to-[#A4C9EF] border-b-4 border-black rounded-t-lg">
+                <div className='h-full items-center justify-center'>
+                    <h1 style={{marginLeft: '10px'}} className='text-white text-xl'>{title}</h1>
                 </div>
-                <div className='flex'>
+                <div className='flex text-3xl'>
                     <AiFillCloseSquare style={{color: '#C3C3C3', backgroundColor: 'black', marginRight: '10px'}}/>
                     <AiFillSwitcher style={{color: '#C3C3C3', backgroundColor: 'black', marginRight: '10px'}}/>
                     <AiFillMinusSquare style={{color: '#C3C3C3', backgroundColor: 'black', marginRight: '10px'}} onClick={() => doMinimize()}/>
