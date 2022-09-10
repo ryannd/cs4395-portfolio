@@ -1,6 +1,12 @@
 {
     "assignments": [
         {
+            "title": "Portfolio Assignment 2",
+            "desc": "Exploring NLTK",
+            "link": "/cs4395-portfolio/assignments/rtd180003_portfolio_assignment_2",
+            "overview": ""
+        },
+        {
             "title": "Portfolio Assignment 1",
             "desc": "Text Processing with Python",
             "link": "https://github.com/ryannd/cs4395-portfolio/tree/main/public/assignments/cs4395_portfolio_assignment_1",
