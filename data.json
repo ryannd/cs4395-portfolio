@@ -1,6 +1,12 @@
 {
     "assignments": [
         {
+            "title": "Portfolio Assignment 4",
+            "desc": "WordNet and SentiWordNet Skills",
+            "link": "/cs4395-portfolio/assignments/rtd180003_portfolio_assignment_4.pdf",
+            "overview": ""
+        },
+        {
             "title": "Portfolio Assignment 3",
             "desc": "Word Guessing Game + Preprocessing Tasks",
             "link": "https://github.com/ryannd/cs4395-portfolio/tree/main/public/assignments/cs4395_portfolio_assignment_3",
