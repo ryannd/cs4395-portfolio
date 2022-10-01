@@ -12,10 +12,10 @@ function HomePage() {
                 <title>CS 4395 | Ryan Dimaranan</title>
                 <meta property="og:title" content="My page title" key="title" />
             </Head>
-            <div className='text-center container mx-auto flex justify-center flex-col mt-5'>
+            <div className='text-center container mx-auto flex justify-center flex-col mt-5 mb-8'>
                 <div className="h-full">
                     <Marquee gradient={false} speed={200}>
-                        <h1 className='text-5xl mr-4'>CS 4395: - Human Language Technologies | Ryan Dimaranan | rtd180003 |</h1>
+                        <h1 className='text-4xl overflow-hidden mr-4'>CS 4395: - Human Language Technologies | Ryan Dimaranan | rtd180003 |</h1>
                     </Marquee>
                 </div>
                 {assignments.length > 0 ? assignments : <Assignment title="No content" link="/"/>}

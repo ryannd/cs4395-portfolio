@@ -1,6 +1,12 @@
 {
     "assignments": [
         {
+            "title": "Portfolio Assignment Chapter 8",
+            "desc": "N-gram Language Model",
+            "link": "https://github.com/ryannd/cs4395-portfolio/tree/main/public/assignments/cs4395_portfolio_chapter8_ngrams",
+            "overview": ""
+        },
+        {
             "title": "Portfolio Assignment 4",
             "desc": "WordNet and SentiWordNet Skills",
             "link": "/cs4395-portfolio/assignments/rtd180003_portfolio_assignment_4.pdf",
