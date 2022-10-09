@@ -1,6 +1,12 @@
 {
     "assignments": [
         {
+            "title": "Portfolio Assignment Web Crawler",
+            "desc": "Crawl a starter site to build a corpus of data and establish a knowledge base for a relevant topic",
+            "link": "https://github.com/ryannd/cs4395-portfolio/tree/main/public/assignments/cs4395_portfolio_web_crawler",
+            "overview": ""
+        },
+        {
             "title": "Portfolio Assignment Chapter 8",
             "desc": "N-gram Language Model",
             "link": "https://github.com/ryannd/cs4395-portfolio/tree/main/public/assignments/cs4395_portfolio_chapter8_ngrams",
