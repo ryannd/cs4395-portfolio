@@ -1,6 +1,12 @@
 {
     "assignments": [
         {
+            "title": "Portfolio Assignment Author Attribution",
+            "desc": "Discoving ways to syntactically parse a sentence.",
+            "link": "/cs4395-portfolio/assignments/rtd180003_author_attribution.pdf",
+            "overview": ""
+        },
+        {
             "title": "Portfolio Assignment Syntax Parsing",
             "desc": "Discoving ways to syntactically parse a sentence.",
             "link": "/cs4395-portfolio/assignments/rtd180003-syntax-parsing.pdf",
