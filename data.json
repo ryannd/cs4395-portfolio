@@ -1,6 +1,12 @@
 {
     "assignments": [
         {
+            "title": "Portfolio Assignment ACL Paper Summary",
+            "desc": "Gaining experience with different machine learning tasks and libraries.",
+            "link": "/cs4395-portfolio/assignments/acl_paper_summary_rtd180003_hcv180000.pdf",
+            "overview": ""
+        },
+        {
             "title": "Portfolio Assignment Author Attribution",
             "desc": "Gaining experience with different machine learning tasks and libraries.",
             "link": "/cs4395-portfolio/assignments/rtd180003_author_attribution.pdf",
