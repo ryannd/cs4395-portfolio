@@ -1,6 +1,18 @@
 {
     "assignments": [
         {
+            "title": "Portfolio Assignment Text Classification",
+            "desc": "Use NLP techniques to create a chatbot that teaches people about space.",
+            "link": "https://github.com/ryannd/cs4395-portfolio/tree/main/public/assignments/cs4395_portfolio_text_classification",
+            "overview": ""
+        },
+        {
+            "title": "Portfolio Assignment Chatbot",
+            "desc": "Use NLP techniques to create a chatbot that teaches people about space.",
+            "link": "https://github.com/ryannd/cs4395-portfolio/tree/main/public/assignments/cs4395_portfolio_chatbot",
+            "overview": ""
+        },
+        {
             "title": "Portfolio Assignment ACL Paper Summary",
             "desc": "Gaining experience with different machine learning tasks and libraries.",
             "link": "/cs4395-portfolio/assignments/acl_paper_summary_rtd180003_hcv180000.pdf",
